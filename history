@@ -1,0 +1,16 @@
+open_with s
+open_with sqq:
+rename Public_a
+shell 
+find fq
+open_with qh
+open_with 2
+open_with h
+delete
+search
+open_with ./
+open_with bash
+
+open_with
+open_with 
+open_with vim
